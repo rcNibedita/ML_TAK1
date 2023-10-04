@@ -1,0 +1,1 @@
+This is dummy data containing a few representative frames from the 'TAB1-bound' and 'apo'TAK1 kinase trajectories. The full dataset on which the scripts have been run will be made available on request.
