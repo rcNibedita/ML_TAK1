@@ -1,0 +1,3 @@
+The file MLPallnonred-kd-featurelist.csv stores a non-redundant list of all top30 scoring features extracted from all iterative classifications of various MLP architectures.
+
+These features were systematically extracted from all MLP1H-PhaseII-seed{*}, MLP2H-PhaseII-seed{*} and MLP3H-PhaseII-seed{*}files located in "datafiles/Workflow2/output/MLP1H", "datafiles/Workflow2/output/MLP2H" and "datafiles/Workflow2/output/MLP3H" respectively.

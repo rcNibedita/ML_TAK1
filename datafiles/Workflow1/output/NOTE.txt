@@ -1,0 +1,3 @@
+The file combinedfeaturelistforMLPs.csv stores a non-redundant list of all prescreened features that contributed to 99% MDI importance of each iteration of Phase-I RF based classification. 
+
+These features were systematically extracted from RF1-PhaseII-seed{*} files in "datafiles/Workflow1/output/featureranking/firstclassificationwithallfeatures".

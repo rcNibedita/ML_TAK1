@@ -1,0 +1,3 @@
+MLP3H-PhaseII-seed{*} files contain the feature scoring results from PhaseII, MLP-based classification; MLP3H has three hidden layers.
+
+MLP3HPhaseIICompositeFeatureScoretop30.csv lists the top 30 composite scorers obtained from five rounds of MLP3H classification.

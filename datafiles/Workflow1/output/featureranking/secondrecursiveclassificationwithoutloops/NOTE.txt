@@ -1,0 +1,10 @@
+RF2 Classification --> Training without features of activation and terminal loops.
+
+1. RF2-PhaseI-seed{*} files contain the feature scoring results from PhaseI, RF-based pre-screening classification.
+
+2. RF2-PhaseII-seed{*} files contain the feature scoring results from PhaseII, RF-based classification. 
+
+3. The features pre-screened from each iteration of PHASE I (RF2-PhaseI-seed{*} files) that contribute to 99% total MDI importance of classification are listed and scored in PHASE II RF-based Classification (RF2-PhaseII-seed{*} files). 
+
+4. RF2PhaseIICompositeFeatureScore.csv lists the top 30 composite scorers obtained from five rounds of PhaseII RF classifications. 
+
